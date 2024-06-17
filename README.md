@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmut Basmacı</h1>
 <h3 align="center">I'm a budding Computer Engineering student at Fırat University in Turkey, driven by a passion for leveraging technology to make a meaningful impact.</h3>
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+
 
 - 🌱 I’m currently learning **Application development and Real-time object detection.**
 
 - 📫 How to reach me **mahmutbasmaci121@gmail.com**
-
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmutbasmaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmut basmacı" height="30" width="40" /></a>
