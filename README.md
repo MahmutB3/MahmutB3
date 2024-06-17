@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/21f573b2125474997ce8fa9e175cc4fe3937ca3aba4502653bf1dca2f4ede0e9/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmut Basmacı</h1>
 <h3 align="center">I'm a budding Computer Engineering student at Fırat University in Turkey, driven by a passion for leveraging technology to make a meaningful impact.</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
